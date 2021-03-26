@@ -12,7 +12,7 @@ information.
 
 ## Requirements
 
-Packages: `emacs`, `git`, `ripgrep`, `fd-find`  
+Packages: `emacs`, `git`, `ripgrep`, `fd`  
 Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ### lang markdown
@@ -25,15 +25,15 @@ Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ### lang java
 
-- language: `java-openjdk`
+- language: Java Development Pattern
 - clang-format: `clang`
 
 ### lang python
 
-- language: `python`
-- code formatting: `black`
-- import management: `python-pyflakes`
-- import sorting: `python-isort`
-- pipenv support: `python-pipenv`
-- running tests: `python-nose`
-- running tests: `python-pytest`
+- language: `python38`
+- code formatting: `python38-black`
+- import management: `python38-pyflakes`
+- import sorting: `python38-isort`
+- pipenv support: (no official package)
+- running tests: `python38-nose`
+- running tests: `python38-pytest`
