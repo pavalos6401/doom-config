@@ -12,7 +12,7 @@ information.
 
 ## Requirements
 
-Packages: `emacs`, `git`, `ripgrep`, `fd`  
+Packages: `emacs`, `git`, `ripgrep`, `fd-find`  
 Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ### lang markdown
@@ -21,16 +21,17 @@ Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ### lang sh
 
-- `shellcheck`
+- `ShellCheck`
 
 ### lang java
 
+- language: `java-openjdk`
 - clang-format: `clang`
-- language: `jdk-openjdk` (or `jdk11-openjdk`, etc. depending on version)
 
 ### lang python
 
-- code formatting: `python-black`
+- language: `python`
+- code formatting: `black`
 - import management: `python-pyflakes`
 - import sorting: `python-isort`
 - pipenv support: `python-pipenv`
