@@ -19,6 +19,10 @@ Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 - markdown compiler: `pandoc`
 
+### lang common lisp
+
+- `sbcl`
+
 ### lang sh
 
 - `ShellCheck`
