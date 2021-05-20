@@ -36,3 +36,17 @@ Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 - pipenv support: `python-pipenv`
 - running tests: `python-nose`
 - running tests: `python-pytest`
+
+### lang haskell
+
+- Cabal: `cabal-install`
+- `hlint`
+
+### lang web
+
+- `style-lint`
+- js-beautify: `python-jsbeautifier`
+
+### lang json
+
+- `jq`
