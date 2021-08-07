@@ -30,7 +30,7 @@ Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 ### lang java
 
 - language: `java-openjdk`
-- clang-format: `clang`
+- clang-format: `clang`, `clang-tools-extra`
 
 ### lang python
 
