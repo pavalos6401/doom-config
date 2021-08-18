@@ -15,25 +15,36 @@ information.
 Packages: `emacs`, `git`, `ripgrep`, `fd-find`  
 Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
+### lang cc
+
+- GLSL code completion: `glslang`
+- Irony server: 
+- rtags support:
+
+### lang json
+
+- `jq`
+
 ### lang markdown
 
 - markdown compiler: `pandoc`
 
 ### lang sh
 
-- `ShellCheck`
+- `shellcheck`
 
 ### lang java
 
-- language: `java-openjdk`
+- language: `jdk-openjdk`
 - clang-format: `clang`
 
 ### lang python
 
 - language: `python`
-- code formatting: `black`
+- code formatting: `python-black`
 - import management: `python-pyflakes`
 - import sorting: `python-isort`
 - pipenv support: `python-pipenv`
 - running tests: `python-nose`
 - running tests: `python-pytest`
+
