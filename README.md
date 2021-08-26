@@ -12,7 +12,8 @@ information.
 
 ## Requirements
 
-Packages: `emacs`, `git`, `ripgrep`, `fd-find`  
+Packages: `emacs`, `git`, `ripgrep`, `fd`  
+Fonts: `nerd-fonts-complete` (AUR)
 Doom Emacs: [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ### lang cc
